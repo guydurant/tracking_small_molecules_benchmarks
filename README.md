@@ -6,10 +6,12 @@ Data was collected manually combing through the literature citing the source of 
 Classification of ML model type (e.g. graph neural network (GNN), transformer, convolutional neural network (CNN)) was done by me but can be redone by reviewing the literature and their links.
 
 The following benchmarks have had results collected for:
-| Benchmark Name         | Task                                            | DOI                |
-|------------------------|-------------------------------------------------|--------------------|
-| CASF 2016              | Predicting binding affinity for protein-ligand complexes | [URL](https://doi.org/10.1021/acs.jcim.8b00545) |
-| USPTO-50k              | Single-step retrosynthesis prediction          | [URL](https://doi.org/10.1021/acscentsci.7b00355) |
-| HIV Protease Activity  | Activity classification for single targets (QSAR) | [URL](https://doi.org/10.1039/C7SC02664A) |
+
+| Benchmark Name         | Task                                             | Metric             | DOI                                            |
+|------------------------|--------------------------------------------------|--------------------|------------------------------------------------|
+| CASF 2016              | Binding affinity prediction for protein-ligand complexes | Pearson's R        | [URL](https://doi.org/10.1021/acs.jcim.8b00545) |
+| USPTO-50k              | Single-step retrosynthesis prediction           | Top-1 Accuracy (%) | [URL](https://doi.org/10.1021/acscentsci.7b00355) |
+| HIV Protease Activity  | Activity classification for single targets (QSAR) | AUROC              | [URL](https://doi.org/10.1039/C7SC02664A)        |
+
 
 All data is provided in the [data](https://github.com/guydurant/tracking_small_molecules_benchmarks/tree/main/data) folder.
