@@ -11,3 +11,5 @@ The following benchmarks have had results collected for:
 | CASF 2016              | Predicting binding affinity for protein-ligand complexes | [URL](https://doi.org/10.1021/acs.jcim.8b00545) |
 | USPTO-50k              | Single-step retrosynthesis prediction          | [URL](https://doi.org/10.1021/acscentsci.7b00355) |
 | HIV Protease Activity  | Activity classification for single targets (QSAR) | [URL](https://doi.org/10.1039/C7SC02664A) |
+
+All data is provided in the [data](https://github.com/<username>/<repository-name>/tree/main/data) folder.
