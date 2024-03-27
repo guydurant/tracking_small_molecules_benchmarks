@@ -1,0 +1,56 @@
+DOI/Link,Model Name,Model Type,Validation-ROC-AUC,Test-ROC-AUC,Date
+https://doi.org/10.1039/C7SC02664A,LogReg,Classic-ML,0.788,0.702,31/10/2017
+https://doi.org/10.1039/C7SC02664A,KernelSVM,Classic-ML,0.837,0.792,31/10/2017
+https://doi.org/10.1039/C7SC02664A,XGBoost,Tree,0.841,0.756,31/10/2017
+https://doi.org/10.1039/C7SC02664A,IRV,Classic-ML,0.818,0.737,31/10/2017
+https://doi.org/10.1039/C7SC02664A,Mutiltask,NN,0.711,0.698,31/10/2017
+https://doi.org/10.1039/C7SC02664A,Bypass,NN,0.719,0.693,31/10/2017
+https://doi.org/10.1039/C7SC02664A,GC,GNN,0.792,0.763,31/10/2017
+https://doi.org/10.1039/C7SC02664A,Weave,NN,0.742,0.703,31/10/2017
+https://doi.org/10.1021/acs.jcim.9b00237,D-MPNN,GNN,-,0.776,30/07/2019
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1021/acs.jcim.8b00803,SA-BiLSTM,LSTM,-,0.801,22/01/2019
+https://proceedings.mlr.press/v97/murphy19a.html,RP-GNN,GNN,-,0.832,09/06/2019
+https://doi.org/10.1093/bioinformatics/btz307,FP2VEC,CNN,-,0.754,09/05/2019
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1002/cmdc.201900458,3DGCN,GNN,-,0.793,03/09/2019
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1021/acs.jcim.9b00626,DTCRD,GNN,-,0.86,29/10/2019
+https://doi.org/10.26434/chemrxiv.9873599.v1,SELU-MPNN,GNN,0.816,0.747,23/09/2019
+https://doi.org/10.26434/chemrxiv.9873599.v1,AMPNN,GNN,0.801,0.742,23/09/2019
+https://doi.org/10.26434/chemrxiv.9873599.v1,EMNN,GNN,0.808,0.759,23/09/2019
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1021/acs.jmedchem.9b00959,AttentiveFP,GNN,-,0.832,13/09/2019
+https://openreview.net/forum?id=HJlWWJSFDH,ContextPredGin,GNN,-,0.799,26/04/2020
+https://doi.org/10.1186/s13321-020-00423-w,TransformerCNN,Transformer/CNN,-,0.83,18/03/2020
+https://doi.org/10.1186/s13321-020-00430-x,MolPMoFiT,LSTM,-,0.816,22/04/2020
+https://proceedings.mlr.press/v129/yang20a.html,NENN-NAEA,GNN,0.84,0.84,18/11/2020
+https://doi.ieeecomputersociety.org/10.1109/ICPR48806.2021.9412555,SA-MTL,Transformer,-,0.826,19/10/2020
+https://arxiv.org/abs/2110.00987,MGSSL,GNN,-,0.795,16/11/2021
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1038/s42256-021-00301-6,MMNB,CNN,-,0.777,01/03/2021
+https://arxiv.org/pdf/2106.04113.pdf,GraphLoG,GNN,- ,0.778,08/06/2021
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1021/acs.jcim.0c01489,DMPNN/XGBoost,GNN/Tree,- ,0.803,19/05/2021
+https://arxiv.org/abs/2110.13197,NestedGIN,GNN,0.808,0.799,25/10/2021
+https://doi.org/10.1093/bioinformatics/btab195,FraGAT,GNN,-,0.851,16/03/2021
+https://doi.org/10.1093/bib/bbaa266,TrimNet,GNN,-,0.804,01/07/2021
+https://doi.org/10.1093/bib/bbab112,HRGCN+,GNN,- ,0.824,11/03/2021
+https://doi.org/10.1038/s41598-021-90259-7,ChemBert,Transformer,-,0.776,26/05/2021
+https://openreview.net/forum?id=0OlrLvrsHwQ,GCN-PGSO,GNN,-,0.768,12/01/2021
+https://doi.org/10.1038/s42256-022-00447-x,MolCLRGIN,GNN,-,0.806,03/03/2022
+https://doi.org/10.1038/s42256-021-00438-4,GEM,GNN,-,0.806,07/02/2022
+https://openreview.net/forum?id=xQUe1pOKPam,GraphMVP,GNN,-,0.77,29/05/2022
+https://doi.org/10.1145/3534678.3539321,GraphMAE,GNN,-,0.772,01/08/2022
+https://doi.org/10.1038/s42256-022-00557-6,ImageMol,CNN,-,0.814,17/11/2022
+https://doi.org/10.1038/s42256-022-00580-7,MolFormer,Transformer,-,0.822,21/12/2022
+https://doi.org/10.1145/3488560.3498416,LP-Info,GNN,-,0.77,01/02/2022
+https://arxiv.org/pdf/2206.07869.pdf,RGCL,GNN,-,0.779,16/06/2022
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1021/acs.jcim.2c00495,iMolCLR,GNN,-,0.808,31/05/2022
+https://arxiv.org/pdf/2201.12987.pdf,PNA+GSAT,GNN,-,0.807,17/06/2022
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1016/j.neunet.2022.11.019,HGCL,GNN,-,0.788,01/01/2023
+https://doi.org/10.1038/s42256-023-00654-0,KANO,GNN,-,0.851,04/05/2023
+https://doi.org/10.1021/acs.jcim.2c01099,HiGNN,GNN ,-,0.802,01/01/2023
+https://doi.org/10.1093/bib/bbac56,CasANGCL,GNN,-,0.818,01/01/2023
+https://doi.org/10.1186/s13321-023-00698-9,ABT-MPNN,GNN/Transformer,- ,0.809,26/02/2023
+https://doi.org/10.1016/j.ins.2023.01.092,MPMol,GNN,-,0.823,01/06/2023
+https://openreview.net/forum?id=ztMLindFLWR&referrer=%5Bthe%20profile%20of%20Mingqi%20Yang%5D(%2Fprofile%3Fid%3D~Mingqi_Yang1),ExpandingConv,GNN,-,0.778,06/06/2023
+https://doi.org/10.1038/s42004-023-00857-x ,PharmHGT,GNN/Transformer,-,0.806,03/04/2023
+https://doi.org/10.1186/s13321-023-00691-2,FFINet,GNN,-,0.828,06/02/2023
+https://doi.org/10.1016/j.compbiomed.2023.107452,MMRLFN,GNN/LSTM,-,0.845,01/10/2023
+https://doi.org/10.1016/j.ins.2023.120066,Con-tuning,GNN,-,0.745,02/01/2024
+https://ieeexplore-ieee-org.ezproxy-prd.bodleian.ox.ac.uk/stamp/stamp.jsp?tp=&arnumber=10268633&tag=1,StableGCN,GNN,-,0.778,01/01/2024

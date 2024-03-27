@@ -1,0 +1,39 @@
+DOI/Link,Model Name,Classification,Model Type,Top-1,Top-5,Top-10,Date
+https://doi.org/10.1021/acs.jcim.9b00949,SCROP,Template-free,Transformer,43.7,65.2,68.7,12/11/2019
+https://doi.org/10.1021/acs.jcim.0c01074,Two-way transformer,Template-free,Transformer,47.1,73.1,76.3,01/07/2021
+https://doi.org/10.1038/s41467-020-19266-y,Aug transformer,Template-free,Transformer,48.3,73.4,77.4,11/04/2020
+https://doi.org/10.1088/2632-2153/ac3ffb,Chemformer,Template-free,Transformer,53.6,61.1,61.7,31/01/2022
+https://doi.org/10.1088/2632-2153/ac3ffb,Chemformer-Large,Template-free,Transformer,54.3,62.3,63,31/01/2022
+https://doi.org/10.1021/acs.jcim.1c00537,MEGAN,Template-free,GNN,48.1,78.4,86.1,07/12/2021
+https://proceedings.neurips.cc/paper/2019/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html,GLN,Template-based,GNN,52.5,75.6,83.7,01/06/2020
+https://proceedings.neurips.cc/paper_files/paper/2021/hash/4e2a6330465c8ffcaa696a5a16639176-Abstract.html,GraphRetro,Semi-template-based,GNN,53.7,72.2,75.5,12/06/2021
+https://doi.org/10.1021/acscentsci.7b00355,RetroSim,Template-based,Non-ML,37.3,63.3,74.1,16/11/2017
+https://doi.org/10.1038/nature25978,NeuralSym,Template-based,Symbolic/NN,44.4,72.4,78.9,29/03/2018
+https://proceedings.neurips.cc/paper_files/paper/2021/hash/5470abe68052c72afb19be45bb418d02-Abstract.html,DualTB,Template-based,Transformer,55.2,80.5,86.9,12/09/2021
+https://arxiv.org/pdf/1910.09688.pdf,LV-Transformer,Template-free,Transformer,40.5,72.8,79.4,21/10/2019
+https://proceedings.neurips.cc/paper_files/paper/2021/hash/5470abe68052c72afb19be45bb418d02-Abstract.html,DualTF,Template-free,Transformer,53.6,74.6,77,12/09/2021
+https://proceedings.mlr.press/v119/shi20d.html,G2G,Semi-template-based,GNN,48.9,72.5,75.5,13/07/2020
+https://proceedings.neurips.cc/paper/2020/hash/819f46e52c25763a55cc642422644317-Abstract.html,RetroXpert,Semi-template-based,Transformer/GNN,50.4,62.3,63.4,12/06/2020
+https://doi.org/10.1021/acscentsci.7b00303,Seq2seq,Template-free,RNN,28.3,47.3,52.8,09/05/2017
+https://doi.org/10.1038/s42004-023-00897-3,G2Retro,Semi-template-based,GNN,54.1,81.2,86.7,30/03/2023
+https://doi.org/10.1016/j.cej.2021.129845,RetroPrime,Semi-template-based,Transformer,51.4,74,76.1,15/09/2021
+https://doi.org/10.1021/acs.jcim.1c01065,MHNReact,Template-based,Modern Hopfield Networks,50.5,81,87.9,15/01/2022
+https://doi.org/10.1021/jacsau.1c00246,LocalRetro,Template-based,GNN,53.4,85.9,92.4,08/05/2021
+https://doi.org/10.1016/j.neucom.2021.06.037,GET,Template-free,Transformer/GNN,44.9,62.4,65.9,16/06/2021
+https://doi.org/10.1021/acs.jcim.2c00321,Graph2Smiles,Template-free,GNN,51.2,70.4,73.9,26/06/2022
+https://doi.org/10.1609/aaai.v35i1.16131,GTA,Template-free,Transformer/GNN,51.1,74.8,81.6,18/05/2021
+https://proceedings.mlr.press/v162/wan22a.html,Retroformer,Template-free,Transformer,53.2,76.6,82.1,17/06/2022
+https://doi.org/10.1039/C9SC03666K,AutoSynRoute,Template-free,Transformer ,42,71.3,77.6,03/03/2020
+https://doi.org/10.1186/s13321-022-00594-8,GLN-Reranked,Template-based,GNN,52.3,82,88,15/03/2022
+https://doi.org/10.3390/biom12091325,RetroComposer,Template-based,GNN,54.5,83.2,87.7,19/09/2022
+https://doi.org/10.1145/3511808.3557397,RetroDCVAE,Template-based,Transformer/GNN,53.1,71.6,74.3,08/10/2022
+https://doi.org/10.1038/s41467-023-38851-5,Graph2Edits,Semi-template-based,GNN,55.1,83.4,89.4,17/05/2023
+https://doi.org/10.1038/s41467-023-41698-5,RetroExplainer,,Transformer/GNN,57.7,79.2,91.4,10/03/2023
+https://doi-org.ezproxy-prd.bodleian.ox.ac.uk/10.1145/3580305.3599317,DVMP,Template-free,Transformer/GNN,59.5,87.6,92,08/01/2023
+https://doi.org/10.1007/s10489-023-05048-8,BiG2S,Template-free,Transformer/GNN,54.5,78.2,82.2,11/01/2023
+https://doi.org/10.1186/s13321-023-00727-7,R-Smiles+RetroRanker,Template-free,Transformer/GNN,56,86.9,91.8,06/08/2023
+https://doi.org/10.1039/D2SC02763A,R-Smiles,Template-free,Transformer,56,86.1,91.5,06/11/2022
+https://doi.org/10.1145/3583780.3614865,SeqAGraph,Template-free,Transfomer/GNN,55.7,77.7,82.7,10/01/2023
+https://doi.org/10.1021/acs.jcim.3c00274,RPBP,Semi-template-based,Transfomer/GNN,54.7,81.2,88.4,19/09/2023
+https://doi.org/10.1609/aaai.v37i4.25640,PMSR,Template-free,Transformer,62,82.9,86.8,26/06/2023
+https://doi.org/10.1007/s11704-023-3103-z,MSNR+,Template-based,NN,63.9,87.6,91.3,25/11/2023
